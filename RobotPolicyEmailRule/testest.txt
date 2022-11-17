@@ -1,0 +1,31 @@
+Starting: Initialize job
+Agent name: 'ROBOTWIN10N1'
+Agent machine name: 'ROBOTWIN10N1'
+Current agent version: '2.186.1'
+Agent running as: 'Integrations.Admin'
+Prepare build directory.
+Set build variables.
+Download all required tasks.
+Checking job knob settings.
+   Knob: TaskRestrictionsEnforcementMode = Enabled Source: $(agent.taskRestrictionsEnforcementMode) 
+Finished checking job knob settings.
+Plugin: 'Test Result Parser plugin' is running in background.
+Plugin: 'Test File Publisher plugin' is running in background.
+Start tracking orphan processes.
+Finishing: Initialize jobStarting: Initialize job
+Agent name: 'ROBOTWIN10N1'
+Agent machine name: 'ROBOTWIN10N1'
+Current agent version: '2.186.1'
+Agent running as: 'Integrations.Admin'
+Prepare build directory.
+Set build variables.
+Download all required tasks.
+Checking job knob settings.
+   Knob: TaskRestrictionsEnforcementMode = Enabled Source: $(agent.taskRestrictionsEnforcementMode) 
+Finished checking job knob settings.
+Plugin: 'Test Result Parser plugin' is running in background.
+Plugin: 'Test File Publisher plugin' is running in background.
+Start tracking orphan processes.
+Finishing: Initialize job
+Modified texts
+
